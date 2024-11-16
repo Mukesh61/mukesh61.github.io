@@ -1,5 +1,5 @@
 # Data Engineer
- Python, AWS, PySpark, SQL
+ Skills: Python, AWS, PySpark, SQL
 
 ### Education
 Electrical Engineering, B.Tech <br/>
