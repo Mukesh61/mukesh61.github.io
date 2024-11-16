@@ -2,5 +2,5 @@
 
 ### Education
 Electrical Engineering, B.Tech
-**Skills**: Python, AWS, PySpark, SQL
+-**Skills**: Python, AWS, PySpark, SQL
 ### Work Experience
