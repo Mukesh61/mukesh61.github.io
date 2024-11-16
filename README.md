@@ -11,3 +11,7 @@ Electrical Engineering, B.Tech <br/>
 4. Automation Center and Innovation Project
 5. AWS Redshift Migration project
 6. AWS Data Lake Project
+
+### Tools 
+
+### POC and Learning
