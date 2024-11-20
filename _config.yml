@@ -1,4 +1,5 @@
-title: Mukesh Mahato
+title: "My Data Engineering Portfolio"
+author: "Mukesh Mahato"
 show_downloads: false
 theme: jekyll-theme-minimal
 
@@ -6,3 +7,9 @@ header_pages:
   - index.md
   - about.md
   - projects.md
+
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/mukesh61"
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/mukeshmahato"
