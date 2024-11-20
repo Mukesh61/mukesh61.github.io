@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome to My Data Engineering Portfolio
 
-Hi, I'm **Mukesh Mahato**, a Data Engineer with 8.5 years of experience in the **banking sector**. I specialize in **Python, PySpark, Kafka**, and **AWS Cloud** solutions.  
+Hi, I'm **Mukesh Mahato**, a Data Engineer with 8.5 years of professional experience. I specialize in **Python, PySpark, SQL, Kafka**, and **AWS Cloud** solutions.  
 
 Explore the sections below to learn more about me, my projects, and my ongoing learning journey:
 
