@@ -1,5 +1,5 @@
 title: "My Data Engineering Portfolio"
-author: "Mukesh Mahato"
+description: "Showcasing my work, projects, and expertise in data engineering."
 show_downloads: false
 theme: jekyll-theme-minimal
 
@@ -13,3 +13,7 @@ social_links:
     url: "https://github.com/mukesh61"
   - name: "LinkedIn"
     url: "https://linkedin.com/in/mukeshmahato"
+
+author:
+  name: "Mukesh Mahato"
+  bio: "Data Engineer | Python | AWS Cloud | Kafka"
