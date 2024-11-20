@@ -41,5 +41,5 @@ Explore the sections below to learn more about me, my projects, and my ongoing l
 
 ## Get in Touch
 
-- **GitHub:** [yourusername](https://github.com/mukesh61)  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/mukeshmahato)  
+- **GitHub:** [mukesh61](https://github.com/mukesh61)  
+- **LinkedIn:** [linkedin.com/in/mukeshmahato](https://linkedin.com/in/mukeshmahato)  
