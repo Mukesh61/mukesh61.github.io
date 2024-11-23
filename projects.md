@@ -53,4 +53,14 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
 
 ---
 
+### **4. Data Validation and Reconciliation Framework**
+- **Objective:** The project aims to deliver two independent solutions for data validation and reconciliation between Hive tables and external data sources. One solution uses Spark with Scala for row-level comparisons between Hive tables and CSV files, while the other uses Python for summary-level validation by aggregating Hive data and comparing it with Excel reports. Both solutions ensure data accuracy and consistency while generating detailed discrepancy reports.
+- **Tech Stack:** Spark, Hive, Python, Jenkins, bitbucket, Autosys
+- **Outcome:**
+  1. A robust framework for row-level validation between Hive tables and golden CSV files.
+  2. Efficient handling of large-scale data with high precision in discrepancy detection.
+  3. A flexible tool to compare summary metrics between Hive tables and Excel reports.
+  4. Comprehensive reports for both solutions to assist in troubleshooting and data validation.
+  5. Reports saved in Excel formats for stakeholder review.
+
 [Go Back to Home](/)
