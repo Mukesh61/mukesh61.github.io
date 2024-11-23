@@ -62,5 +62,21 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   3. A flexible tool to compare summary metrics between Hive tables and Excel reports.
   4. Comprehensive reports for both solutions to assist in troubleshooting and data validation.
   5. Reports saved in Excel formats for stakeholder review.
+ 
+### **5. Automated Data Enrichment and Notification Bot**
+- **Objective:** The project involves designing and deploying a UiPath bot to automate the process of reading emails, downloading attached CSV files, enriching them with additional data from a web source, and saving the enriched file to a shared folder. The bot then sends an email notification to the customer, ensuring the entire workflow is automated, efficient, and error-free.
+- **Tech Stack:** Uipath, Python, RestAPI, CSV
+- **Outcome:**
+  1. An end-to-end automation pipeline that reduces manual intervention and ensures timely processing of data.
+  2. Elimination of human errors in repetitive tasks like email handling, file downloading, and data enrichment.
+  3. Prototype was created using Python and Rest API which got repurposed as backup solution in case of Uipath service is down. 
+
+### **6. Sybase IQ to Amazon Redshift Data Warehouse Migration**
+- **Objective:** The migration of 2100+ tables from Sybase IQ to Redshift using AWS Glue with Python shell and Spark demonstrates a robust approach to modernizing data platforms.
+- **Tech Stack:** AWS (Redshift, Glue jobs, Glue catalogue table, Parameter store, Secret Manager, Lambda, KMS, Data Sync, IAM, Cloudwatch, EventBridge), Python, Pyspark
+- **Outcome:**
+  1. Redshift’s columnar storage and optimized query execution can significantly improve query performance.
+  2. Potential reduction in storage and operational costs compared to on-premise Sybase IQ systems.
+  3. Standardized and enriched data during the ETL process for better analytics readiness.
 
 [Go Back to Home](/)
