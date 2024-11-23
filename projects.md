@@ -33,7 +33,6 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   3.  Stored enriched data back into AWS S3 using optimized formats like Parquet for better query performance and cost-effectiveness.
   4.  Automated the data loading process into Amazon Redshift, making the enriched datasets readily available for analytics and reporting teams.
   5.  Leveraged Redshift’s scalability to support complex queries and large-scale data analysis.
-  6.  
 
 ---
 
