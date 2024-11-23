@@ -72,7 +72,7 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   3. Prototype was created using Python and Rest API which got repurposed as backup solution in case of Uipath service is down. 
 
 ### **6. Sybase IQ to Amazon Redshift Data Warehouse Migration**
-- **Objective:** The migration of 2100+ tables from Sybase IQ to Redshift using AWS Glue with Python shell and Spark demonstrates a robust approach to modernizing data platforms.
+- **Objective:** The migration of 2000+ tables from Sybase IQ to Redshift using AWS Glue with Python shell and Spark demonstrates a robust approach to modernizing data platforms.
 - **Tech Stack:** AWS (Redshift, Glue jobs, Glue catalogue table, Parameter store, Secret Manager, Lambda, KMS, Data Sync, IAM, Cloudwatch, EventBridge), Python, Pyspark
 - **Outcome:**
   1. Redshift’s columnar storage and optimized query execution can significantly improve query performance.
