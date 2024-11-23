@@ -69,7 +69,8 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
 - **Outcome:**
   1. An end-to-end automation pipeline that reduces manual intervention and ensures timely processing of data.
   2. Elimination of human errors in repetitive tasks like email handling, file downloading, and data enrichment.
-  3. Prototype was created using Python and Rest API which got repurposed as backup solution in case of Uipath service is down. 
+  3. Prototype was created using Python and Rest API which got repurposed as backup solution in case of Uipath service is down.
+  4. Saved 800K dollars with enrich data which helped analyst to make better decision.  
 
 ### **6. Sybase IQ to Amazon Redshift Data Warehouse Migration**
 - **Objective:** The migration of 2000+ tables from Sybase IQ to Redshift using AWS Glue with Python shell and Spark demonstrates a robust approach to modernizing data platforms.
