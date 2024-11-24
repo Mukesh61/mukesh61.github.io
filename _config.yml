@@ -1,16 +1,3 @@
 title: "Mukesh Mahato"
 description: "Showcasing my work, projects, and expertise in data engineering."
 theme: minima
-
-social_links:
-  - name: GitHub
-    url: https://github.com/mukesh61
-    icon: fab fa-github
-  - name: LinkedIn
-    url: https://linkedin.com/in/mukeshmahato
-    icon: fab fa-twitter
-
-show_social_links: true
-author:
-  name: "Mukesh Mahato"
-  bio: "Data Engineer | Python | AWS Cloud | Kafka"
