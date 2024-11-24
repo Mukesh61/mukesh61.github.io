@@ -7,9 +7,10 @@ social_links:
     url: https://github.com/mukesh61
     icon: fab fa-github
   - name: LinkedIn
-    url: "https://linkedin.com/in/mukeshmahato"
+    url: https://linkedin.com/in/mukeshmahato
     icon: fab fa-twitter
 
+show_social_links: true
 author:
   name: "Mukesh Mahato"
   bio: "Data Engineer | Python | AWS Cloud | Kafka"
