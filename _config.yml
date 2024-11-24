@@ -1,6 +1,7 @@
 title: "Mukesh Mahato"
 description: "Showcasing my work, projects, and expertise in data engineering."
 show_downloads: false
+show_social_links: true
 theme: jekyll-theme-minimal
 
 header_pages:
@@ -9,10 +10,12 @@ header_pages:
   - projects.md
 
 social_links:
-  - name: "GitHub"
-    url: "https://github.com/mukesh61"
-  - name: "LinkedIn"
+  - name: GitHub
+    url: https://github.com/mukesh61
+    icon: fab fa-github
+  - name: LinkedIn
     url: "https://linkedin.com/in/mukeshmahato"
+    icon: fab fa-twitter
 
 author:
   name: "Mukesh Mahato"
