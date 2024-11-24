@@ -79,5 +79,13 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   1. Redshift’s columnar storage and optimized query execution can significantly improve query performance.
   2. Potential reduction in storage and operational costs compared to on-premise Sybase IQ systems.
   3. Standardized and enriched data during the ETL process for better analytics readiness.
+ 
+### **7. Encompass Data CDC Pipeline to Redshift**
+- **Objective:** Develop a robust and automated data pipeline to load Encompass data, processed through Informatica, stored in Parquet format, into an AWS Redshift data warehouse using Change Data Capture (CDC). The goal is to enable efficient and incremental data loading while maintaining data accuracy and integrity.
+- **Tech Stack:** AWS (Redshift, Glue jobs, Glue catalogue table, Parameter store, Secret Manager, Lambda, KMS, Data Sync, IAM, Cloudwatch, EventBridge), Python
+- **Outcome:**
+  1. Efficient Data Integration: Successfully established an automated pipeline using AWS Glue Python Shell jobs for CDC-based incremental data ingestion from Parquet files into AWS Redshift.
+  2. Leveraged Parquet's efficient compression and Redshift's columnar storage for optimal storage utilization and query performance.
+  3. Delivered a reliable data warehouse that supports analytical workloads and business intelligence reporting on Encompass data.
 
 [Go Back to Home](/)
