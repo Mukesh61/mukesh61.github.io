@@ -1,13 +1,6 @@
 title: "Mukesh Mahato"
 description: "Showcasing my work, projects, and expertise in data engineering."
-show_downloads: false
-show_social_links: true
 theme: jekyll-theme-minimal
-
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
 
 social_links:
   - name: GitHub
