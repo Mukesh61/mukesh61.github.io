@@ -14,7 +14,7 @@ Explore the sections below to learn more about me, my projects, and my ongoing l
 
 ---
 
-### Recent Highlights
+### Recent Highlights {#recentHighlight}
 
 #### **Real-Time Data Streaming: Kafka to AWS S3**
 - Designed and implemented a real-time data streaming pipeline to move customer data to AWS S3 using Apache Spark. 
