@@ -33,7 +33,6 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   3.  Stored enriched data back into AWS S3 using optimized formats like Parquet for better query performance and cost-effectiveness.
   4.  Automated the data loading process into Amazon Redshift, making the enriched datasets readily available for analytics and reporting teams.
   5.  Leveraged Redshift’s scalability to support complex queries and large-scale data analysis.
-  6.  
 
 ---
 
@@ -53,5 +52,40 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   10. Pay-as-you-go cloud model reduces costs compared to fixed mainframe operational expenses.
 
 ---
+
+### **4. Data Validation and Reconciliation Framework**
+- **Objective:** The project aims to deliver two independent solutions for data validation and reconciliation between Hive tables and external data sources. One solution uses Spark with Scala for row-level comparisons between Hive tables and CSV files, while the other uses Python for summary-level validation by aggregating Hive data and comparing it with Excel reports. Both solutions ensure data accuracy and consistency while generating detailed discrepancy reports.
+- **Tech Stack:** Spark, Hive, Python, Jenkins, bitbucket, Autosys
+- **Outcome:**
+  1. A robust framework for row-level validation between Hive tables and golden CSV files.
+  2. Efficient handling of large-scale data with high precision in discrepancy detection.
+  3. A flexible tool to compare summary metrics between Hive tables and Excel reports.
+  4. Comprehensive reports for both solutions to assist in troubleshooting and data validation.
+  5. Reports saved in Excel formats for stakeholder review.
+ 
+### **5. Automated Data Enrichment and Notification Bot**
+- **Objective:** The project involves designing and deploying a UiPath bot to automate the process of reading emails, downloading attached CSV files, enriching them with additional data from a web source, and saving the enriched file to a shared folder. The bot then sends an email notification to the customer, ensuring the entire workflow is automated, efficient, and error-free.
+- **Tech Stack:** Uipath, Python, RestAPI, CSV
+- **Outcome:**
+  1. An end-to-end automation pipeline that reduces manual intervention and ensures timely processing of data.
+  2. Elimination of human errors in repetitive tasks like email handling, file downloading, and data enrichment.
+  3. Prototype was created using Python and Rest API which got repurposed as backup solution in case of Uipath service is down.
+  4. Saved 800K dollars/year with enrich data which helped analyst to make better decision.  
+
+### **6. Sybase IQ to Amazon Redshift Data Warehouse Migration**
+- **Objective:** The migration of 2000+ tables from Sybase IQ to Redshift using AWS Glue with Python shell and Spark demonstrates a robust approach to modernizing data platforms.
+- **Tech Stack:** AWS (Redshift, Glue jobs, Glue catalogue table, Parameter store, Secret Manager, Lambda, KMS, Data Sync, IAM, Cloudwatch, EventBridge), Python, Pyspark
+- **Outcome:**
+  1. Redshift’s columnar storage and optimized query execution can significantly improve query performance.
+  2. Potential reduction in storage and operational costs compared to on-premise Sybase IQ systems.
+  3. Standardized and enriched data during the ETL process for better analytics readiness.
+ 
+### **7. Encompass Data CDC Pipeline to Redshift**
+- **Objective:** Develop a robust and automated data pipeline to load Encompass data, processed through Informatica, stored in Parquet format, into an AWS Redshift data warehouse using Change Data Capture (CDC). The goal is to enable efficient and incremental data loading while maintaining data accuracy and integrity.
+- **Tech Stack:** AWS (Redshift, Glue jobs, Glue catalogue table, Parameter store, Secret Manager, Lambda, KMS, Data Sync, IAM, Cloudwatch, EventBridge), Python
+- **Outcome:**
+  1. Efficient Data Integration: Successfully established an automated pipeline using AWS Glue Python Shell jobs for CDC-based incremental data ingestion from Parquet files into AWS Redshift.
+  2. Leveraged Parquet's efficient compression and Redshift's columnar storage for optimal storage utilization and query performance.
+  3. Delivered a reliable data warehouse that supports analytical workloads and business intelligence reporting on Encompass data.
 
 [Go Back to Home](/)
