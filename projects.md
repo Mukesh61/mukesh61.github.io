@@ -62,6 +62,8 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   3. A flexible tool to compare summary metrics between Hive tables and Excel reports.
   4. Comprehensive reports for both solutions to assist in troubleshooting and data validation.
   5. Reports saved in Excel formats for stakeholder review.
+
+---
  
 ### **5. Automated Data Enrichment and Notification Bot**
 - **Objective:** The project involves designing and deploying a UiPath bot to automate the process of reading emails, downloading attached CSV files, enriching them with additional data from a web source, and saving the enriched file to a shared folder. The bot then sends an email notification to the customer, ensuring the entire workflow is automated, efficient, and error-free.
@@ -72,6 +74,8 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   3. Prototype was created using Python and Rest API which got repurposed as backup solution in case of Uipath service is down.
   4. Saved 800K dollars/year with enrich data which helped analyst to make better decision.  
 
+---
+
 ### **6. Sybase IQ to Amazon Redshift Data Warehouse Migration**
 - **Objective:** The migration of 2000+ tables from Sybase IQ to Redshift using AWS Glue with Python shell and Spark demonstrates a robust approach to modernizing data platforms.
 - **Tech Stack:** AWS (Redshift, Glue jobs, Glue catalogue table, Parameter store, Secret Manager, Lambda, KMS, Data Sync, IAM, Cloudwatch, EventBridge), Python, Pyspark
@@ -79,6 +83,8 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   1. Redshift’s columnar storage and optimized query execution can significantly improve query performance.
   2. Potential reduction in storage and operational costs compared to on-premise Sybase IQ systems.
   3. Standardized and enriched data during the ETL process for better analytics readiness.
+
+ ---
  
 ### **7. Encompass Data CDC Pipeline to Redshift**
 - **Objective:** Develop a robust and automated data pipeline to load Encompass data, processed through Informatica, stored in Parquet format, into an AWS Redshift data warehouse using Change Data Capture (CDC). The goal is to enable efficient and incremental data loading while maintaining data accuracy and integrity.
@@ -87,5 +93,17 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   1. Efficient Data Integration: Successfully established an automated pipeline using AWS Glue Python Shell jobs for CDC-based incremental data ingestion from Parquet files into AWS Redshift.
   2. Leveraged Parquet's efficient compression and Redshift's columnar storage for optimal storage utilization and query performance.
   3. Delivered a reliable data warehouse that supports analytical workloads and business intelligence reporting on Encompass data.
+
+ ---
+ 
+### **8. Overpayment Tracking System**
+- **Objective:** Worked as a Backend Developer in a Healthcare Overpayment System, focusing on optimizing and maintaining backend database operations. Designed and enhanced stored procedures, optimized SQL queries, and managed reporting table changes to improve system efficiency and data integrity.
+- **Tech Stack:** IBM DB2, SQL, Store Procedure, Python and AssistEdge Automation
+- **Outcome:**
+  1. Developed and optimized DB2 stored procedures to handle healthcare overpayment transactions efficiently.
+  2. Optimized SQL queries to improve system performance and reduce processing time.
+  3. Designed and implemented reporting table changes to enhance data accuracy and reporting capabilities.
+  4. Worked closely with business analysts to understand requirements and implement database solutions.
+  5. Ensured data consistency and integrity while handling large datasets in the healthcare domain.
 
 [Go Back to Home](/)
