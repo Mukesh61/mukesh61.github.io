@@ -87,5 +87,15 @@ Here are some of the projects I have worked on, showcasing my expertise in data 
   1. Efficient Data Integration: Successfully established an automated pipeline using AWS Glue Python Shell jobs for CDC-based incremental data ingestion from Parquet files into AWS Redshift.
   2. Leveraged Parquet's efficient compression and Redshift's columnar storage for optimal storage utilization and query performance.
   3. Delivered a reliable data warehouse that supports analytical workloads and business intelligence reporting on Encompass data.
+ 
+### **8. Overpayment Tracking System**
+- **Objective:** Worked as a Backend Developer in a Healthcare Overpayment System, focusing on optimizing and maintaining backend database operations. Designed and enhanced stored procedures, optimized SQL queries, and managed reporting table changes to improve system efficiency and data integrity.
+- **Tech Stack:** IBM DB2, SQL, Store Procedure, Python and AssistEdge Automation
+- **Outcome:**
+  1. Developed and optimized DB2 stored procedures to handle healthcare overpayment transactions efficiently.
+  2. Optimized SQL queries to improve system performance and reduce processing time.
+  3. Designed and implemented reporting table changes to enhance data accuracy and reporting capabilities.
+  4. Worked closely with business analysts to understand requirements and implement database solutions.
+  5. Ensured data consistency and integrity while handling large datasets in the healthcare domain.
 
 [Go Back to Home](/)
